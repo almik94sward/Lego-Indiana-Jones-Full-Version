@@ -240,3 +240,6 @@ This repository serves as the official landing page for LEGO Indiana Jones. The 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of LEGO Indiana Jones today!**
+
+---
+**Last updated:** 2026-09-08 10:45:46 UTC
