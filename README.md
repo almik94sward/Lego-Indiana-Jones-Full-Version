@@ -242,4 +242,4 @@ This repository serves as the official landing page for LEGO Indiana Jones. The 
 **Get the most recent version of LEGO Indiana Jones today!**
 
 ---
-**Last updated:** 2026-09-11 23:01:54 UTC
+**Last updated:** 2026-09-12 03:32:12 UTC
